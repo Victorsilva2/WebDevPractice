@@ -5,9 +5,9 @@ Web Dev Sports Projects
 About
 This repository contains a series of web development practice projects inspired by my favorite sports teams:
 
-🏈 Dallas Cowboys
-🏀 San Antonio Spurs
-🏉 Texas Longhorns
+✭ Dallas Cowboys
+🤠 San Antonio Spurs
+🤘🏽 Texas Longhorns
 The goal is to improve my web development skills while creating fun and engaging content related to the teams I love.
 
 Features
